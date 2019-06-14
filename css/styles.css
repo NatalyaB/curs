@@ -64,3 +64,9 @@ body {
 .jumbotron .modal-dialog {
     color: #0f0f0f;
 }
+
+#carouselButtom {
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+}
